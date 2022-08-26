@@ -5,15 +5,15 @@ Step:1 Changed Data Type using Select Tool and Auto Field Tool
 <img width="493" alt="image" src="https://user-images.githubusercontent.com/103557302/186698556-7115fb8f-194b-414f-bef9-8ecc4b5e452e.png">
 
 Qs:1 Which of the Unique country codes Zomato Operates
-Ans: Used Unique Tool to get distinct Country Codes
+
 <img width="499" alt="image" src="https://user-images.githubusercontent.com/103557302/186699881-4c3ad2c3-77c3-4244-8754-b0354f6f8881.png">
 
 Qs:2 Distinct List of Country names served by Zomato
-Ans: Country Names is Present in Different Tool, used Joint Tool
+
 <img width="494" alt="image" src="https://user-images.githubusercontent.com/103557302/186700460-1e70aafa-251e-4c86-9744-84c33bdee21a.png">
 
 Qs:3 Total number of Distinct Countries
-Ans: Used Summarize Tool
+
 <img width="473" alt="image" src="https://user-images.githubusercontent.com/103557302/186701280-903e0dbc-f749-42f4-a8b0-c3de2a050e05.png">
 
 Qs:4 Distinct Combination of City and Country
